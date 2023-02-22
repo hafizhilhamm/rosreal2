@@ -1,0 +1,2 @@
+rs
+-DCATKIN_DEVEL_PREFIX=/home/hafizh/rosreal/tutor/devel -DCMAKE_INSTALL_PREFIX=/home/hafizh/rosreal/tutor/install -G Unix Makefiles

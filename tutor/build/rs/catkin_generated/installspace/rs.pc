@@ -1,0 +1,8 @@
+prefix=/home/hafizh/rosreal/tutor/install
+
+Name: rs
+Description: Description of rs
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lrs
+Requires: roscpp std_msgs cv_bridge sensor_msgs image_transport nodelet
